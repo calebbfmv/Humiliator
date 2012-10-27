@@ -1,0 +1,10 @@
+name: Humiliator
+main: me.calebbfmv.Humiliator.Humilator
+version: 1.0a
+commands:
+  h:
+    description: Shut those stupid players!
+    permission: Humiliator.CanDo
+  telto:
+    description: Teleport to the target!
+    permission: Humiliator.CanDo
